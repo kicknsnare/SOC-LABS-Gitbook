@@ -1,0 +1,18 @@
+# Table of contents
+
+* [🧠 Masterminds (Brim room)](README.md)
+  * [Infection 1](masterminds-brim-room/infection-1/README.md)
+    * [Walkthrough](masterminds-brim-room/infection-1/walkthrough.md)
+  * [Infection 2](masterminds-brim-room/infection-2/README.md)
+    * [Walkthrough](masterminds-brim-room/infection-2/walkthrough.md)
+  * [Infection 3](masterminds-brim-room/infection-3/README.md)
+    * [Walkthrough](masterminds-brim-room/infection-3/walkthrough.md)
+* [👀 IN PROCESS](in-process/README.md)
+  * [Sample Captures](in-process/sample-captures.md)
+  * [Case 001 PCAP](in-process/case-001-pcap.md)
+  * [Warzone 1](in-process/warzone-1.md)
+  * [Warzone 2](in-process/warzone-2.md)
+  * [Carnage](in-process/carnage.md)
+* [🚨 H4cked (Wireshark and Hacking)](h4cked-wireshark-and-hacking/README.md)
+  * [Analysis Walkthrough](h4cked-wireshark-and-hacking/analysis-walkthrough.md)
+  * [Hack Your way back Walkthrough](h4cked-wireshark-and-hacking/hack-your-way-back-walkthrough.md)
