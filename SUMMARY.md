@@ -28,3 +28,11 @@
 
 * [🐞 Benign](siem/benign/README.md)
   * [Walkthrough](siem/benign/walkthrough.md)
+* [📗 Splunk 2](siem/splunk-2/README.md)
+  * [100 Series Questions](siem/splunk-2/100-series-questions/README.md)
+    * [Walkthrough](siem/splunk-2/100-series-questions/walkthrough.md)
+  * [200 Series Questions](siem/splunk-2/200-series-questions.md)
+  * [300 Series Questions](siem/splunk-2/300-series-questions.md)
+  * [400 Series Questions](siem/splunk-2/400-series-questions.md)
+* [⚙ New Hire Old Artifacts](siem/new-hire-old-artifacts/README.md)
+  * [Walkthrough](siem/new-hire-old-artifacts/walkthrough.md)
