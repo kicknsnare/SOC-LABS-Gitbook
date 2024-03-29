@@ -45,3 +45,4 @@
 
 * [Investigating Windows](investigating-windows/README.md)
   * [Page](investigating-windows/page.md)
+  * [Notes](investigating-windows/notes.md)
